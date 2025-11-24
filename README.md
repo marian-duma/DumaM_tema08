@@ -1,5 +1,5 @@
 # DumaM_tema08
-**Fisierele text: quadsVertexList.txt, trianglesVertexList.txt si vertexList.txt se afla in root-ul proiectului, deoarece directorul bin a fost adaugat automat in .gitignore in momentul crearii repo-ului in Visual Studio**
+**Fisierele text: quadsVertexList.txt, trianglesVertexList.txt si vertexList.txt se afla in root-ul proiectului, deoarece directorul bin a fost adaugat automat in .gitignore in momentul crearii repo-ului in Visual Studio.**
 
 1. Descrieți diferențele dintre iluminarea așa cum funcționează în lumea reală și modelul de iluminare utilizat de OpenGL.
    - In lumea reala iluminarea este globala si este dependenta de traseele razelor de lumina.
